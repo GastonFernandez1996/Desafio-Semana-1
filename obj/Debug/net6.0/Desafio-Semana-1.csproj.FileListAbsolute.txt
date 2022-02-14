@@ -1,0 +1,5 @@
+D:\Cursos\Alkemy\PreAceleracion-FernandezGaston\Desafio semana 1\Desafio-Semana-1\obj\Debug\net6.0\Desafio-Semana-1.csproj.AssemblyReference.cache
+D:\Cursos\Alkemy\PreAceleracion-FernandezGaston\Desafio semana 1\Desafio-Semana-1\obj\Debug\net6.0\Desafio-Semana-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Alkemy\PreAceleracion-FernandezGaston\Desafio semana 1\Desafio-Semana-1\obj\Debug\net6.0\Desafio-Semana-1.AssemblyInfoInputs.cache
+D:\Cursos\Alkemy\PreAceleracion-FernandezGaston\Desafio semana 1\Desafio-Semana-1\obj\Debug\net6.0\Desafio-Semana-1.AssemblyInfo.cs
+D:\Cursos\Alkemy\PreAceleracion-FernandezGaston\Desafio semana 1\Desafio-Semana-1\obj\Debug\net6.0\Desafio-Semana-1.csproj.CoreCompileInputs.cache
